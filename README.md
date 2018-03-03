@@ -1,2 +1,2 @@
 # git-proj-1
-Test project
+Test project for tutorial purpose.
